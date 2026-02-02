@@ -12,7 +12,7 @@ async function main() {
     loadTools();
     const toolsPrompt = generateToolsPrompt();
 
-    console.log(chalk.blue.bold('\n=== Simple Scheduling Agent - Part 3 ===\n'));
+    console.log(chalk.blue.bold('\n=== Simple Scheduling Agent - Polo ❤️  Jona ===\n'));
     console.log(chalk.gray('Type your message and press Enter. Type "exit" to quit.\n'));
 
     while (true) {
